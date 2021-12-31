@@ -1,0 +1,134 @@
+{
+  "DASH": [
+    {
+      "name": "Extra Charge", "id": 1,
+      "figure": [[0, 1, 1], [0, 0, 1], [0, 0, 0]]
+    },
+    {
+      "name": "Cooldown", "id": 2,
+      "figure": [[0, 1], [0, 0], [0, 1], [0, 1]]
+    },
+    {
+      "name": "Extra Charge II", "id": 3,
+      "figure": [[1, 0], [0, 0], [0, 0], [1, 0]]
+    },
+    {
+      "name": "Invulnerable", "id": 4,
+      "figure": [[1, 0, 0, 0], [0, 0, 0, 0]]
+    },
+    {
+      "name": "Extra Charge III", "id": 5,
+      "figure": [[1, 0], [0, 0], [0, 1], [0, 0]]
+    }
+  ],
+  "DEFLECT": [
+    {
+      "name": "Reflect", "id": 6,
+      "figure": [[0, 1, 1, 1], [0, 1, 1, 1], [0, 0, 0, 0]]
+    },
+    {
+      "name": "Boost", "id": 7,
+      "figure": [[0, 0], [0, 0], [0, 0]]
+    },
+    {
+      "name": "Elimination Boost", "id": 8,
+      "figure": [[1, 0, 1], [0, 0, 0], [1, 0, 1]]
+    },
+    {
+      "name": "Absorb", "id": 9,
+      "figure": [[1, 0], [1, 0], [1, 0], [0, 0]]
+    },
+    {
+      "name": "Microbooster", "id": 10,
+      "figure": [[0, 1, 0], [0, 1, 0], [1, 1, 1], [0, 0, 0]]
+    }
+  ],
+  "SKILLS": [
+    {
+      "name": "Aim Time Boost", "id": 11,
+      "figure": [[1, 0], [0, 0]]
+    },
+    {
+      "name": "Cybervoid Attunement", "id": 12,
+      "figure": [[0, 1, 1], [0, 1, 1], [0, 0, 0]]
+    },
+    {
+      "name": "Focus: Overclock", "id": 13,
+      "figure": [[1, 0, 1], [0, 0, 0], [1, 0, 1], [1, 0, 1]]
+    },
+    {
+      "name": "Focus: Technique Boost", "id": 14,
+      "figure": [[0, 0], [1, 0], [1, 0]]
+    }
+  ],
+  "MAP": [
+    {
+      "name": "Detector", "id": 15,
+      "figure": [[1, 0, 1], [0, 0, 0]]
+    },
+    {
+      "name": "Tactical Overlay", "id": 16,
+      "figure": [[0, 0], [0, 0]]
+    },
+    {
+      "name": "Sensory Boost: X-Ray", "id": 17,
+      "figure": [[0, 0], [0, 0], [1, 0]]
+    },
+    {
+      "name": "Sensory Boost: Slowdown", "id": 18,
+      "figure": [[0, 1, 0], [0, 0, 0], [0, 1, 0]]
+    },
+    {
+      "name": "Tactical Overlay II", "id": 19,
+      "figure": [[1, 0], [0, 0], [0, 0]]
+    }
+  ],
+  "BLINK": [
+    {
+      "name": "Range", "id": 20,
+      "figure": [[0, 0, 0], [0, 0, 1]]
+    },
+    {
+      "name": "Area", "id": 21,
+      "figure": [[0, 0], [1, 0], [0, 0]]
+    },
+    {
+      "name": "Extra Charge", "id": 22,
+      "figure": [[1, 1, 0, 0], [0, 0, 0, 1], [0, 0, 1, 1]]
+    }
+  ],
+  "TEMPEST": [
+    {
+      "name": "Range", "id": 23,
+      "figure": [[0, 0, 1], [1, 0, 0], [1, 0, 0]]
+    },
+    {
+      "name": "Multikill Refund", "id": 24,
+      "figure": [[1, 0, 1], [0, 0, 0], [0, 0, 0]]
+    }
+  ],
+  "SURGE": [
+    {
+      "name": "Size", "id": 25,
+      "figure": [[1, 1, 0], [0, 0, 0], [0, 1, 1]]
+    },
+    {
+      "name": "Range", "id": 26,
+      "figure": [[0, 0, 0, 1], [1, 1, 0, 0]]
+    },
+    {
+      "name": "Speed", "id": 27,
+      "figure": [[1, 0, 0], [0, 0, 1]]
+    },
+    {
+      "name": "Extra Charges", "id": 28,
+      "figure": [[1, 1, 1, 0], [1, 1, 0, 0], [1, 0, 0, 1], [0, 0, 1, 1]]
+    }
+  ],
+  "OVERLORD": [
+    {
+      "name": "Size", "id": 29,
+      "figure": [[0], [0], [0], [0]]
+    }
+  ]
+}
