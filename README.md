@@ -12,10 +12,10 @@ ____
 ## HOWTO
 - Run main.py
 - Enter:
-    1. The number of the mode you need
+    1. The number of the mode you need (from 1 to 3)
     2. Ids of the upgrades you want to be placed space-separated (ex: 1 4 8 6 13 )
     3. If you've chosen 3 mode, you need to enter the limit of holes
-- Just wait. When it's done working the ~~ugly~~ gorceous cmd will close and "**** Upgrades.txt" file will appear
+- Just wait. When it's done working the ~~ugly~~ gorgeous cmd will close and "**** Upgrades.txt" file will appear
 
 ## Upgrades and their Ids
 ![Upgrades IDs](https://github.com/Ferum9029/Ghostrunner-upgrade-builder/blob/master/upgrades%20ids.jpg)
