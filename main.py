@@ -71,9 +71,9 @@ def less_holes_than(start_field: Field, upgrades_to_place: tuple):
 if __name__ == "__main__":
     field_ = Field(json.loads(open('jsons/field.json', 'r').read())['field'])
     modes = (found_fields, best_fields, less_holes_than)
-    explanatory_text = "There are 3 modes:\n1 - Saves all found ways to place upgrades. The less holes there is, the higher it will be in the output file\n" \
+    explanatory_text = "There are 3 modes:\n1 - Saves all found ways to place upgrades. The fewer holes there is, the higher it will be in the output file\n" \
                        "2 - When script finds a way to place upgrades more efficient or equally to the previous best, it saves it\n" \
-                       "3 - You enter a number, then the script finds all ways to set upgrades so the count of holes will be less than your number.\n The less holes there is, the higher it will be\n" \
+                       "3 - You enter a number, then the script finds all ways to set upgrades so the count of holes will be less than your number.\n The fewer holes there is, the higher it will be\n" \
                        "When the script's done working the window will close itself"
     print(explanatory_text)
     mode = int(input('Mode(number): '))
