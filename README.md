@@ -3,10 +3,10 @@ Helps you ~~play Tetris~~ make you character in Ghostrunner stronger via upgrade
 ____
 
 ## It has 3 modes:
-1. Saves all found ways to place upgrades. The less holes there is, the higher it will be in the output file
+1. Saves all found ways to place upgrades. The fewer holes there is, the higher it will be in the output file
 2. When script finds a way to place upgrades more efficient or equally to the previous best, it saves it
 3. You enter a number, then the script finds all the ways to set upgrades so the count of holes will be less than your number.
-    The less holes there is, the higher it will be
+    The fewer holes there is, the higher it will be
 ____
 
 ## HOWTO
