@@ -55,7 +55,7 @@ def best_fields(start_field: Field, upgrades_to_place: tuple):
 
 
 def less_holes_than(start_field: Field, upgrades_to_place: tuple):
-    minimum_holes = int(input("Less holes than: "))
+    minimum_holes = int(input("Less holes than(if <= 0 it will save nothing): "))
     fields = []
     for field in find_another_combination(upgrades_to_place, start_field, set()):
         holes = field.count_holes()
